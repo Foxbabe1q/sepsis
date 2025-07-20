@@ -1,0 +1,6 @@
+feature,mean_abs_shap
+sofa_score_24h,0.1469566534328275
+lods,0.03292671335123012
+marital_status_SINGLE,0.03060318262635266
+insurance_Medicaid,0.022628870861395253
+admission_age,0.020643314793345052
